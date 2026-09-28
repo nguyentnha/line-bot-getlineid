@@ -1,0 +1,9 @@
+# Bỏ qua thư mục chứa thư viện node
+node_modules/
+
+# Bỏ qua file chứa thông tin bảo mật/token
+.env
+
+# Bỏ qua các file log hoặc tạm
+*.log
+.DS_Store
